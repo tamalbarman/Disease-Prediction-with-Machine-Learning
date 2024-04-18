@@ -40,4 +40,5 @@ The application uses pre-trained machine-learning models for disease prediction.
 
 - Icons by [Iconmonstr](https://iconmonstr.com/)
 
+## Website Screenshot
 <img src="./Presentation/Disease Prediction with Machine Learning.png" alt="Website Screenshot">
